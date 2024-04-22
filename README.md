@@ -2,6 +2,8 @@
 
 Please note as of December 2023, this project and code is still under development. There is an ongoing issue with a large JSON file currently not uploading to Github. For access to this file, please contact the team at sarah.houston.16@ucl.ac.uk
 
+You can watch a short presentation on the project from the HSMA5 Open Day [here.](https://www.youtube.com/watch?v=tavZS5MmwOA)
+
 ## Introduction to CDCs
 
 Community diagnostic centres (CDCs) have been launched across England to tackle the diagnostic backlog and address healthcare inequalities. 
